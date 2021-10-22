@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.generation.drive.DriversManagerTest" tests="5" skipped="0" failures="0" errors="0" timestamp="2021-10-22T22:04:18" hostname="LAPTOP-GHB5SHCH" time="0.039">
+  <properties/>
+  <testcase name="endTripTest()" classname="com.generation.drive.DriversManagerTest" time="0.024"/>
+  <testcase name="passengerAdded()" classname="com.generation.drive.DriversManagerTest" time="0.007"/>
+  <testcase name="nextAvailableDriverTest()" classname="com.generation.drive.DriversManagerTest" time="0.001"/>
+  <testcase name="driverAdded()" classname="com.generation.drive.DriversManagerTest" time="0.001"/>
+  <testcase name="startTripTest()" classname="com.generation.drive.DriversManagerTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
